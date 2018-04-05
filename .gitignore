@@ -1,0 +1,11 @@
+/.idea
+/phpMyAdmin
+
+/news-press/dist
+/news-press/common-files
+
+
+/news-ajax/common-files
+
+/news-ajax/bulid
+/news-ajax/dist
