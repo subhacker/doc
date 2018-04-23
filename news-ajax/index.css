@@ -1,0 +1,69 @@
+#header{
+    background: #2aabd2;
+    font-size: 23px;
+    height: 50px;
+    alignment: center;
+    align-content: center;
+    padding-left: 200px;
+    padding-top: 19px;
+}
+.module{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+table{
+    margin: 10px;
+    width: 100%;
+
+
+}
+
+thead{
+    background: #2aabd2;
+}
+
+#select{
+    margin-top: 2px;
+}
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+a{
+    text-underline: none;
+}
+
+.index_con{
+    width: 30px;
+}
+
+.long_des_con{
+    width: auto;
+
+}
+
+.visit_count_con{
+    width: 30px;
+    float: right;
+    margin-right: 30px;
+
+}
+.last_visit_time_con{
+    float: right;
+    margin-right: 50px;
+
+
+}
+
+.more{
+    float: right;
+    margin-right: 30px;
+}
+.footer{
+    width: 100px;
+    margin-left: 300px;
+    margin-right: auto;
+}
