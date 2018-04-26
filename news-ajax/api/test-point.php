@@ -12,7 +12,7 @@
 include '../common-files/mysql.php';
 $database=new mysql();
 
-$name=$_POST['name'];$age=$_POST['age'];
+$name=$_GET['name'];$age=$_GET['age'];
 
 //print_r(getallheaders());
 
