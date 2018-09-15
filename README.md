@@ -26,7 +26,7 @@
 - gmt_password_modified 密码最后修改时间
 - token 鉴权码
 - token_created_time 鉴权码生成时间
-- gmt_create
+- gmt_create <<账号创建时间
 - creator
 - gmt_modified
 - modifier
